@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Loay 👋 <br><br>🎓 Software Engineering Student at Mansoura University<br>📱 Flutter Developer | Dart<br>🚀 Building cross-platform mobile applications with Flutter<br>💡 Passionate about creating clean, user-friendly mobile experiences<br>📚 Currently improving my Flutter, Dart, and mobile development skills<br><br>🛠️ Tech Stack Flutter Dart Firebase REST APIs Git & GitHub 📌 Currently <br><br>Building Flutter projects and continuously learning new mobile development techniques.<br><br>
+Hi, I'm Loay 👋 <br><br>🎓 Software Engineering Student at Mansoura University<br>📱 Flutter Developer | Dart<br>🚀 Building cross-platform mobile applications with Flutter<br>💡 Passionate about creating clean, user-friendly mobile experiences<br>📚 Currently improving my Flutter, Dart, and mobile development skills<br><br>🛠️ Tech Stack Flutter Dart Firebase REST APIs Git & GitHub 
+📌 Currently <br><br>Building Flutter projects and continuously learning new mobile development techniques.<br><br>
 
 
 ## 🌐 Socials:
