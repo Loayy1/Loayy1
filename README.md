@@ -1,4 +1,4 @@
-# Hi, I'm Loay 👋
+# Hi, I'm Loay 
 
 **Flutter Developer | Dart**
 Software Engineering student at Mansoura University, building cross-platform mobile apps with Flutter.
